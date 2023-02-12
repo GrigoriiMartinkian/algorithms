@@ -1,7 +1,5 @@
 import sorting.BubbleSort;
 
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         int[] sortArr = {12, 6, 4, 1, 15, 10};
